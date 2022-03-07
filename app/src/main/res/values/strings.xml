@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quizlet</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="start">Start</string>
+    <string name="so_zlarni_tarjima_qiling">So\'zlarni tarjima qiling.</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_9_out_of_10">Your score is 9 out of 10</string>
+    <string name="submit">SUBMIT</string>
+</resources>
